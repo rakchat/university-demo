@@ -1,1 +1,1 @@
-https://experiencedamn.github.io/university/index.html
+https://rakchat.github.io/university-demo/index.html
